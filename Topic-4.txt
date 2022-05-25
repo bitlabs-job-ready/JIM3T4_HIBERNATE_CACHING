@@ -1,0 +1,9 @@
+1.Create a use case that can implement second level cache.
+-create a entity called department, with following parameters
+	A.dept_id,
+	B.dept_name,
+	C.dept_employee_strength,
+
+1.insert values into "Department" table 
+2.show records based on dept_id,
+3.implement caching for above operations.
